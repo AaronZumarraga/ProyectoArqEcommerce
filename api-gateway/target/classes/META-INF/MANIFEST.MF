@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: aaron
+Build-Jdk: 17.0.7
+Implementation-Title: api-gateway
+Implementation-Version: 1
+Implementation-Vendor-Id: reactiveprogramming.architecturebook
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/api-gateway
+Created-By: Maven Integration for Eclipse
+
